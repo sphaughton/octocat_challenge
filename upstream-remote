@@ -1,1 +1,1 @@
-Explain what the "Upstream" remote is usually used for, in your own words
+The upstream remote is usually used to sync your local repository with a forked repository on GitHub. This allows the user to pull changes made to the original repo of an Open Source project.
